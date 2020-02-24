@@ -1,0 +1,25 @@
+Now in bangalore
+current temperature is 25 °C
+current sky condition = Passing clouds.
+Forecast: 30 / 15 °C
+Now in bangalore
+current temperature is 25 °C
+current sky condition = Passing clouds.
+Forecast: 30 / 15 °C
+11:06:42
+Now in bangalore
+current temperature is 25 °C
+current sky condition = Passing clouds.
+Forecast: 30 / 15 °C
+11:07:04
+Now in bangalore
+current temperature is 25 °C
+current sky condition = Passing clouds.
+Forecast: 30 / 15 °C
+
+18:38:52
+Now in bangalore
+current temperature is 28 °C
+current sky condition = Passing clouds.
+Forecast: 32 / 17 °C
+
